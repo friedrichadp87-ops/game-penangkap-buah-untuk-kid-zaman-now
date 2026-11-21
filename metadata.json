@@ -1,0 +1,8 @@
+{
+  "name": "Panen Buah",
+  "description": "Game santai tangkap buah tropis yang sederhana dan mudah dimainkan di kebun Nusantara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
